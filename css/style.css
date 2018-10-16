@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Sunflower:300" rel="stylesheet');
+body{
+  font-family: 'Sunflower', sans-serif;
+  font-size: 17px;
+  color: black;
+}
+.smaller-image{
+  width: 700px;
+}
+#japan-flag{
+  width: 50px;
+}
+.verticalLine {
+  border-left: 2px solid black;
+}
+.divider {
+  border-top: 1px solid black;
+  width: 1000px;
+}
+#bottom-divider{
+  width: 1230px;
+}
+.portrait-border{
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 2%;
+}
+#infobox{
+  background-color: rgb(191,191,191);
+  width: 1230px;
+  border-radius: 1%;
+  margin: 80px auto 80px auto;
+}
+.header{
+  font-size: 50px;
+  line-height: 50px;
+  text-shadow: 2px 1px black;
+}
+#title1{
+  padding-top: 40px;
+  color: #292929;
+}
+#title2{
+  font-size: 50px;
+  color: #292929;
+}
+#title3{
+  font-size: 40px;
+  color: #292929;
+}
+.quote{
+  font-size: 20px;
+}
+#wikipedia{
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
